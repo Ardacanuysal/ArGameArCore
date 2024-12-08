@@ -1,6 +1,6 @@
 <img src="app/src/main/assets/models/icon.jpg" alt="App Icon" width="200" style="display: block; margin-left: auto; margin-right: auto;" />
 
-
+**Trello Board Link:** <a target="_blank">https://trello.com/b/920KyeKK/project-development</a>
 # AR Game - Connect the Lines
 
 A mobile AR-based game where the main goal is to connect lines in a network-like pattern. The centerpiece of the gameplay is a sleek, black arrow-shaped desktop cursor that interacts with the environment. The game's immersive design and AR features make it a unique and enjoyable experience.
@@ -16,7 +16,8 @@ A mobile AR-based game where the main goal is to connect lines in a network-like
 - **Flat Surface Detection:** A custom algorithm detects flat surfaces to place the game area accurately.
 
 ---
-
+- **Trello Board Link:** `https://trello.com/yourtrelloboardlink` 
+---
 ## Installation
 1. Clone the repository:
    ```bash
