@@ -1,6 +1,10 @@
 <img src="app/src/main/assets/models/icon.jpg" alt="App Icon" width="200" style="display: block; margin-left: auto; margin-right: auto;" />
 
+**APK DOWNLOAD Link:** <a target="_blank">https://drive.google.com/drive/u/0/folders/1EmF6H9yhMhK2tvkXwrnbYrn8-5MaNN1v</a>
+
 **Trello Board Link:** <a target="_blank">https://trello.com/b/920KyeKK/project-development</a>
+<br>
+<br>
 # AR Game - Connect the Lines
 
 A mobile AR-based game where the main goal is to connect lines in a network-like pattern. The centerpiece of the gameplay is a sleek, black arrow-shaped desktop cursor that interacts with the environment. The game's immersive design and AR features make it a unique and enjoyable experience.
